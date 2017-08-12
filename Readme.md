@@ -40,7 +40,6 @@ You can think of a statement is a complete PHP thought. 19 + or echo aren't comp
 
 <?php echo "Use your semicolons!"; ?>
 ### Comments
-<!-- Just like we sometimes put comments in our CSS (using /* this syntax */ ) or in our HTML (using <!-- this syntax -->), we can also put comments in our PHP code! We do that using two forward slashes (//), like so:
 
 <?php
     echo "I get printed!";
