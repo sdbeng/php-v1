@@ -40,13 +40,14 @@ You can think of a statement is a complete PHP thought. 19 + or echo aren't comp
 
 <?php echo "Use your semicolons!"; ?>
 ### Comments
-
+```php
 <?php
     echo "I get printed!";
     // I don't! I'm a comment.
 ?>
-
+```
 ### if/else-if/else
+```
 <?php
         $gameNinja = "Jin";
         if ($gameNinja == "Jin"){
@@ -58,6 +59,7 @@ You can think of a statement is a complete PHP thought. 19 + or echo aren't comp
             echo "You are the master!";
         }
     ?>
+```
 ###
 ###
 ###
